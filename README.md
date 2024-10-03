@@ -1,10 +1,11 @@
 ## Hi there, , I'm Marcos Barszcz👋
-
-
 - 💼 I’m looking for a job as a backend developer
 - 🎓 I’m studying systems analysis and development
 - 👤 Pronouns: he/his
-- ⚡ Fun fact: ...
+
+### About
+I'm a systems developer passionate about creating amazing front-end user interfaces and solving complex back-end challenges. I love programming and I'm always looking to learn new technologies and improve my skills
+
 
 <div>
   <a href="www.linkedin.com/in/marcos-barszcz">
