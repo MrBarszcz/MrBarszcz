@@ -1,4 +1,4 @@
-## Hi there, , I'm Marcos Barszcz👋
+## Hi there, I'm Marcos Barszcz👋
 - 💼 I’m looking for a job as a backend developer
 - 🎓 I’m studying systems analysis and development
 - 👤 Pronouns: he/his
