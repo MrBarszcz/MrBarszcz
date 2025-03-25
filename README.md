@@ -80,9 +80,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrBarszcz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="182" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrBarszcz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="162" alt="stats graph"  />
 
-  <img src="https://streak-stats.demolab.com?user=MrBarszcz&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="182" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=MrBarszcz&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="162" alt="streak graph"  />
 </div>
 
 <br>
