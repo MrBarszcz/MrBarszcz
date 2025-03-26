@@ -27,7 +27,7 @@
 
 📚 Systems Analysis and Development student
 
-🎯 Beginner freelancer in web and backend development
+🎯 Junior freelancer in web and backend development
 
 🚀 Passionate about technology, programming and continuous learning
 
