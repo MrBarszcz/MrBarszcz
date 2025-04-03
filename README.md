@@ -2,7 +2,6 @@
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXkwbXMxOWRpZGFhNzY5ZHZxZzV3bDk4NmM1amMzNWN3ZzB6NTJnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif"  />
 </div>
 
-[![YouTube Music](https://img.icons8.com/?size=100&id=v2g5nBwZDzuw&format=png&color=000000)](https://music.youtube.com/watch?v=X4IhAfcdIao&list=RDAMVMX4IhAfcdIao)
 ###
 
 <div align="center">
