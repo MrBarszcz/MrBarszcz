@@ -25,13 +25,15 @@
 
 <h3 align="left">🧑‍💻 About Me</h2>
 
-📚 Systems Analysis and Development student
+🎓 Technologist in Systems Analysis and Development
 
 🎯 Junior freelancer in web and backend development
 
 🚀 Passionate about technology, programming and continuous learning
 
 💻 Improving skills in ASP.NET MVC, C#, SQL Server and modern Front-end
+
+🌱 Currently focusing: Mastering JavaScript fundamentals to build a rock-solid foundation for moving into TypeScript and React development.
 
 🔍 Looking for freelance opportunities and challenging projects
 
@@ -46,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -69,7 +72,12 @@
 <br>
 
 
+<h3 align="left">🚀 Featured Projects</h3>
+
+- **E-commerce System:** A full-stack dynamic platform for clothing stores built with .NET and SQL Server.
+
 ###
+
 
 <br clear="both">
 
